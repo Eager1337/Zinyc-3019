@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "reference": "REQUEST SAVED \u00b7 DCD02614",
+  "screens": [
+    "desktop services",
+    "booking success",
+    "mobile hero",
+    "mobile services",
+    "mobile form"
+  ],
+  "checks": [
+    "images loaded",
+    "gallery filtering",
+    "lightbox navigation",
+    "service preselection",
+    "request API and WhatsApp handoff",
+    "privacy modal",
+    "mobile menu",
+    "no overflow 320/390/768/1024/1440",
+    "no JS errors"
+  ]
+}
